@@ -1,9 +1,10 @@
 {
-    "displayName": "Mod Template",
-    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration.",
+    "name": "reign-world",
+    "displayName": "Reign World",
+    "description": "Replaces all wave spawns with one of four T5s (primarily reigns). Yes that means you'll face a reign at wave 1 in ground zero.",
     "version": "v1.0",
     "minGameVersion": "146",
-    "author": "You",
+    "author": "nvcbl",
     "java": true,
-    "main": "template.ModTemplate"
+    "main": "reign.Main"
 }
